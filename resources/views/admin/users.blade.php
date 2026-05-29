@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-app-admin>
     <div class="container mt-5">
         <h1>Users</h1>
 
